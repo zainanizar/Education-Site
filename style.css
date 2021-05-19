@@ -7,16 +7,11 @@
 .header {
     min-height: 100vh;
     width: 100%;
-<<<<<<< HEAD
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(./images/banner.png);
-=======
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/banner.png);
->>>>>>> edab24fd8da8c0a5639b5511015545572f23b27e
     background-position: center;
     background-size: cover;
     position: relative;
 }
-<<<<<<< HEAD
 
 nav {
     display: flex;
@@ -120,5 +115,3 @@ nav-links{
         z-index: 2;
     }
 }
-=======
->>>>>>> edab24fd8da8c0a5639b5511015545572f23b27e
